@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on Full Stack Development Projects (**MERN Stack**)
   
-- 🌱 I’m currently learning **Data Structures & Algorithms, Python, SQL and React Native** etc.. 
+- 🌱 I’m currently learning **Python, SQL and React Native** etc.. 
 
 - 👯 I’m looking to collaborate on **MERN Stack**
 
