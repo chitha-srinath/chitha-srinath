@@ -17,7 +17,7 @@
 
 - 👯 I’m looking to collaborate on **MERN Stack**
 
-- 💬 Ask me about **Node Js, Nest Js, Mongodb, Recat Js etc..**
+- 💬 Ask me about **Node Js , Express JS, Mongo DB, React Js etc..**
   
 - 👨‍💻 All of my projects are available at [Github](https://github.com/chitha-srinath?tab=repositories)
 
