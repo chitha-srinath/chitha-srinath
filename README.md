@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **Node Js, Nest Js, Mongodb, Recat Js etc..**
   
-- 👨‍💻 All of my projects are available at [Github](https://github.com/chitha-srinath)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/chitha-srinath?tab=repositories)
 
 - 📫 Reach me at **chithasaireddy@gmail.com**
 
